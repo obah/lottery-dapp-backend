@@ -28,16 +28,16 @@ For better experience, run the project with the [frontend](https://github.com/ob
 
 # Supported Chains
 
-Goerli testnet
-Ethereum mainnet (support coming)
-Polygon mainnet (support coming)
+- Goerli testnet
+- Ethereum mainnet (support coming)
+- Polygon mainnet (support coming)
 
 # Tools used
 
-Solidity
-Javascript
-NodeJs
-Ethers.js
-Hardhat
-Chainlink
-Alchemy
+- Solidity
+- Javascript
+- NodeJs
+- Ethers.js
+- Hardhat
+- Chainlink
+- Alchemy
